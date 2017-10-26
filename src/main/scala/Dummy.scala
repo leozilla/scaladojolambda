@@ -1,5 +1,8 @@
 package com.leonhart.scalacodingdojo
 
-object Dummy {
+object Solution {
 
+  def duplicateEncode(word: String) = {
+    // Your code here
+  }
 }
