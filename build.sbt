@@ -2,10 +2,10 @@ name := "scalacodingdojo"
 
 version := "1.0"
 
-scalaVersion := "2.12.3"
+scalaVersion := "2.12.7"
 
 libraryDependencies ++= Seq(
-  "org.scalatest" % "scalatest_2.13.0-M2" % "3.0.4" % "test",
-  "ch.qos.logback" % "logback-classic" % "1.1.2",
+  "org.scalatest" % "scalatest_2.12" % "3.0.5" % "test",
+  "ch.qos.logback" % "logback-classic" % "1.2.3",
   "junit" % "junit" % "4.12")
     
